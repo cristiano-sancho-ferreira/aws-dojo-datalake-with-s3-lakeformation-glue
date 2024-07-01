@@ -1,6 +1,6 @@
-## Create Data Lake with Amazon S3, Lake Formation and Glue using Terraform
+## Crie Data Lake com Amazon S3, Lake Formation e Glue usando Terraform
 
-Ready to build a data lake - well a small one. In this workshop, you will keep two data sets sales and customers in Amazon S3. AWS Glue is used to catalog the data. You then use AWS Lake Formation to provide specific permission for the salesuser and customersuser users for the sales and customers tables. The users will use Amazon Athena to query the data as per the permission defined.
+Pronto para construir um data lake - bem, um pequeno. Neste workshop, você manterá dois conjuntos de dados de vendas e clientes no Amazon S3. AWS Glue é usado para catalogar os dados. Em seguida, você usa o AWS Lake Formation para fornecer permissão específica para os usuários SalesUser e CustomersUser para as tabelas Sales e Customers. Os usuários usarão o Amazon Athena para consultar os dados de acordo com a permissão definida.
 
 https://aws-dojo.com/workshoplists/workshoplist3/
 
