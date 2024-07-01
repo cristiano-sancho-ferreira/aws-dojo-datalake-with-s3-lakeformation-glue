@@ -5,4 +5,7 @@ Neste workshop, você manterá dois conjuntos de dados de vendas e clientes no A
 
 https://aws-dojo.com/workshoplists/workshoplist3/
 
+![image](https://github.com/cristiano-sancho-ferreira/aws-dojo-datalake-with-s3-lakeformation-glue/assets/63261829/98bcc391-4ad8-45e3-8569-726857d8f71f)
+
+
 
